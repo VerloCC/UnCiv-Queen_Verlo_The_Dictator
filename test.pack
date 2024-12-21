@@ -1,0 +1,26 @@
+
+test.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Shisha no Tani
+  rotate: false
+  xy: 1, 1
+  size: 388, 388
+  orig: 388, 388
+  offset: 0, 0
+  index: -1
+Steel Valkyrie (1)
+  rotate: false
+  xy: 391, 69
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+Steel Valkyrie
+  rotate: false
+  xy: 713, 133
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
