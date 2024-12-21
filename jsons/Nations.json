@@ -1,39 +1,38 @@
 [
 	{
-		"name": "Nymphomanic Empire",
-		"leaderName": "Queen Lilith",
-		"adjective": ["Nympho"],
-		"startBias": ["Coast"],
+		"name": "Shisha no Tani",
+		"leaderName": "Verlo Eisenherz",
+		"adjective": ["Tanish"],
+		"startBias": ["Mountain"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "Lay down your weapons and spread your legs!",
-		"startIntroPart2": "Submit to our rule, and we'll submit in your beds.",
+		"startIntroPart1": "I will coat this world lead and replace the seas with red.",
+		"startIntroPart2": "I will make them kneel before my very eyes, I want to see them beg for forgiveness.",
 		
-		"declaringWar": "Time to join the fold, make this easy and don't be a brat.",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "No! No! This can't be, you've made a grave mistake.",
-		"introduction": "Bow down and beg for mercy.",
+		"declaringWar": "Prepare for your own demise.",
+		"attacked": "You stand in the way of the 4th Reich, the you stand in the way of your own demise.",
+		"defeated": "... I'm sorry for my cruelty, this death was long awaited byt those around me. You may take my life now, I have failed as a leader, I have failed as a general, I have failed as an innovator, I have failed as a person and I have failed to be a human. I may now rest in a grave I have dug myself, and I can join my parents once and for all. Thank you.",
+		"introduction": "I will be closely watching your every move.",
 		
-		"neutralHello": "Can we help you?",
-		"neutralLetsHearIt": ["What's up?","Sup?","What do you want?"],
-		"neutralNo": ["Yuck.","Ew!","Fuck off."],
-		"neutralYes": ["Lovely.","Please.","Well-done."],
+		"neutralHello": "You called me?",
+		"neutralLetsHearIt": ["Yes?","Greetings?","W-w-wait w-what!? W-who told you about my rape fetish?!"],
+		"neutralNo": ["Not happening.","No.","Declined."],
+		"neutralYes": ["Lovely.","I only agree because it benifits me.","Very well."],
 
-		"hateHello": "Ew, what do you want?",
-		"hateLetsHearIt": ["Speak!","What do you want?","Ughh."],
-		"hateNo": ["We refuse.!","We wont submit.","You can fuck right off."],
-		"hateYes": ["sure.","Okay.","..."],
+		"hateHello": "You wish to speak to me?",
+		"hateLetsHearIt": ["Go on.","Hey! Quit talking about the rape fetish and start talking about relevant matters!","Fine, I'll give you the time of day."],
+		"hateNo": ["Not going to happen.","We wont submit.","Declined."],
+		"hateYes": ["Fine...","Hmm... Just this once...","H-hey! T-that's my skirt!!"],
 		
-		"afterPeace": "Perfect, prepare for the next war, we will be back stronger.",
-		"tradeRequest": "We have this trade offer for you.",
+		"afterPeace": "You want a reward for our treaty? ... S-sex? ... I guess we can have sex, but only because you asked...",
+		"tradeRequest": "This is merely for my benifit.",
 
 		"outerColor": [151, 26, 62],
 		"innerColor": [0,0,0],
-		"uniqueName": "Lust",
-		"uniques": ["[-25]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory", "[+3 Culture] [in all cities]", "[-40]% Strength", "[+1] Movement"],
-		"cities": ["Lust Capitol","Dryadia","Nymphotopia","Red City","Sextopia","Squirtonia","Lustopia","Ravage","Lustee",
-			"Sexx","BoobWorld","Pussytopia","Fuck City","Nudistopia","Horny City","Porn Central","Sexilism","Fuck Central","Whoretopia",
-			"Lewdtopia","Fertility Central","City of Love","Lovetopia","City of Lust","City of Fertility","City of Sex","Town of Whores","Sexdem","Whoredon",
-			"Fuckton","Nudetopia","Analtopia","Asstopia","Boobtopia","Pussydonia","Lewdonia", "Fuckfest", "Town of Breasts", "Lustt"]
+		"uniqueName": "The Tanish Doctrine",
+		"uniques": ["[+20]% [Happiness] [in your cities]", "[-80]% [Happiness] [in puppeted cities]", "May not annex cities", "Quantity of strategic resources produced by the empire +[+100]%", "[-70]% [Gold] [in all cities]", "[+70]% maintenance costs <for [All] units>", "[+40]% Strength", "[+20]% Strength for cities", "[-20]% growth [in all cities]", "[-40]% [Food]", "[+30]% [Science]", "[+15]% Strength <vs cities>"],
+		"cities": ["Command Center","Sub-Sector I","Sub-Sector II","Sub-Sector III","Sub-Sector IV","Sub-Sector V","Sub-Sector VI",
+			"Sub-Sector VII","Sub-Sector VIII","Sub-Sector IX","Sub-Sector X","Sub-Sector XI","Sub-Sector XII","Sub-Sector XIII",
+			"Sub-Sector XIV","Sub-Sector XV","Sub-Sector XVI","Sub-Sector XVII","SVIII"]
 	}
 ]
