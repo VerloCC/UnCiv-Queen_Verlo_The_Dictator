@@ -3,11 +3,11 @@
 		"name": "Saboteur",
 		"unitType": "Scout",
 		"uniqueTo": "Shisha no Tani",
-		"movement": 20,
+		"movement": 100,
 		"strength": 1,
 		"cost": 4000,
 		"requiredTech": "Dynamite",
-		"uniques": ["No movement cost to pillage"]
+		"uniques": ["No movement cost to pillage", "Ignores terrain cost", "Can move immediately once bought", "Can see over obstacles", "Invisible to non-adjacent units", "Can pass through impassable tiles"]
 	},
 	{
 		"name": "Steel Valkyrie",
@@ -19,7 +19,7 @@
 		"range": 6,
 		"cost": 122000,
 		"requiredTech": "Replaceable Parts",
-		"uniques": ["[15] additional attacks per turn", "Consumes [20] [Iron]", "Consumes [10] [Aluminum]", "Consumes [15] [Coal]", "Consumes [10] [Oil]", "Consumes [3] [Silver]", "Consumes [3] [Copper]", "Cannot be purchased"],
+		"uniques": ["[15] additional attacks per turn", "Consumes [20] [Iron]", "Consumes [15] [Aluminum]", "Consumes [15] [Coal]", "Consumes [2] [Silver]", "Consumes [2] [Copper]", "Cannot be purchased", "Destroys tile improvements when attacking", "Can see over obstacles", "Ranged attacks may be performed over obstacles"],
 		"attackSound": "artillery"
 	},
 	{
@@ -30,7 +30,7 @@
 		"strength": 50,
 		"cost": 400,
 		"requiredTech": "Replaceable Parts",
-		"uniques": ["No movement cost to pillage"]
+		"uniques": ["No movement cost to pillage", "[5] additional attacks per turn"]
 	},	
 	{
 		"name": "XTC-427",
