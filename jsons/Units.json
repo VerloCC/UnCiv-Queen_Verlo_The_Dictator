@@ -19,7 +19,7 @@
 		"range": 6,
 		"cost": 2000,
 		"requiredTech": "Replaceable Parts",
-		"uniques": ["[20] additional attacks per turn", "Consumes [30] [Iron]", "Consumes [25] [Aluminum]", "Consumes [25] [Coal]", "Consumes [3] [Silver]", "Consumes [3] [Copper]", "Cannot be purchased", "Destroys tile improvements when attacking", "Can see over obstacles", "Ranged attacks may be performed over obstacles"],
+		"uniques": ["[20] additional attacks per turn", "Consumes [30] [Iron]", "Consumes [25] [Aluminum]", "Consumes [25] [Coal]", "Consumes [3] [Silver]", "Consumes [3] [Copper]", "Cannot be purchased", "Destroys tile improvements when attacking", "Can see over obstacles", "Ranged attacks may be performed over obstacles", "Destroys tile improvements when attacking"],
 		"attackSound": "artillery"
 	},
 	{
