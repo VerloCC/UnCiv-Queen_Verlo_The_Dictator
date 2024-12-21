@@ -15,7 +15,7 @@
 		"uniqueTo": "Shisha no Tani",
 		"movement": 1,
 		"strength": 5,
-		"rangedStrength": 200,
+		"rangedStrength": 100,
 		"range": 4,
 		"cost": 2000,
 		"requiredTech": "Replaceable Parts",
