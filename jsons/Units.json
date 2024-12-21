@@ -19,7 +19,7 @@
 		"range": 6,
 		"cost": 122000,
 		"requiredTech": "Replaceable Parts",
-		"uniques": ["[15] additional attacks per turn", "Consumes [20] [Iron]", "Consumes [20] [Aluminum]", "Consumes [20] [Coal]", "Consumes [20] [Oil]", "Consumes [5] [Gold Ore]", "Consumes [5] [Silver]", "Consumes [5] [Copper]", "Cannot be purchased"],
+		"uniques": ["[15] additional attacks per turn", "Consumes [20] [Iron]", "Consumes [10] [Aluminum]", "Consumes [15] [Coal]", "Consumes [10] [Oil]", "Consumes [3] [Silver]", "Consumes [3] [Copper]", "Cannot be purchased"],
 		"attackSound": "artillery"
 	},
 	{
