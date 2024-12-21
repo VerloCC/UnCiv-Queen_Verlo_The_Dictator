@@ -2,6 +2,7 @@
 	{
 		"name": "Basic unit this is a placeholder name",
 		"unitType": "Archery",
+		"uniqueTo": "ShishaNoTan",
 		"movement": 2,
 		"strength": 5,
 		"rangedStrength": 7,
@@ -14,6 +15,7 @@
 	{
 		"name": "The pillaging unit this is a placeholder name",
 		"unitType": "Archery",
+		"uniqueTo": "ShishaNoTan",
 		"movement": 2,
 		"strength": 7,
 		"rangedStrength": 9,
@@ -41,6 +43,7 @@
 	{
 		"name": "The flamethrower unit this is a placeholder name",
 		"unitType": "Gunpowder",
+		"uniqueTo": "ShishaNoTan",
 		"movement": 3,
 		"interceptRange": 2,
 		"strength": 65,
