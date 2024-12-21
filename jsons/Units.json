@@ -5,7 +5,7 @@
 		"uniqueTo": "Shisha no Tani",
 		"movement": 100,
 		"strength": 1,
-		"cost": 4000,
+		"cost": 400,
 		"requiredTech": "Dynamite",
 		"uniques": ["No movement cost to pillage", "Ignores terrain cost", "Can move immediately once bought", "Can see over obstacles", "Invisible to non-adjacent units", "Can pass through impassable tiles"]
 	},
@@ -17,9 +17,9 @@
 		"strength": 5,
 		"rangedStrength": 200,
 		"range": 6,
-		"cost": 122000,
+		"cost": 2000,
 		"requiredTech": "Replaceable Parts",
-		"uniques": ["[15] additional attacks per turn", "Consumes [20] [Iron]", "Consumes [15] [Aluminum]", "Consumes [15] [Coal]", "Consumes [2] [Silver]", "Consumes [2] [Copper]", "Cannot be purchased", "Destroys tile improvements when attacking", "Can see over obstacles", "Ranged attacks may be performed over obstacles"],
+		"uniques": ["[20] additional attacks per turn", "Consumes [30] [Iron]", "Consumes [25] [Aluminum]", "Consumes [25] [Coal]", "Consumes [3] [Silver]", "Consumes [3] [Copper]", "Cannot be purchased", "Destroys tile improvements when attacking", "Can see over obstacles", "Ranged attacks may be performed over obstacles"],
 		"attackSound": "artillery"
 	},
 	{
@@ -39,7 +39,7 @@
 		"strength": 3000,
 		"rangedStrength": 3000,
 		"range": 20,
-		"cost": 100000,
+		"cost": 3000,
 		"requiredTech": "Nuclear Fusion",
 		"uniques": ["Nuclear weapon of Strength [5]", "Only available <if [Manhattan Project] is constructed>",
 			"Blast radius [6]", "Consumes [20] [Uranium]", "Cannot be purchased"],
