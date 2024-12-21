@@ -2,7 +2,7 @@
 	{
 		"name": "Saboteur",
 		"unitType": "Scout",
-		"uniqueTo": "ShishaNoTan",
+		"uniqueTo": "Shisha no Tani",
 		"movement": 20,
 		"strength": 1,
 		"cost": 4000,
@@ -12,7 +12,7 @@
 	{
 		"name": "Steel Valkyrie",
 		"unitType": "Siege",
-		"uniqueTo": "ShishaNoTan",
+		"uniqueTo": "Shisha no Tani",
 		"movement": 0.3,
 		"strength": 5,
 		"rangedStrength": 200,
@@ -25,7 +25,7 @@
 	{
 		"name": "Blaze",
 		"unitType": "Ranged Gunpowder",
-		"uniqueTo": "ShishaNoTan",
+		"uniqueTo": "Shisha no Tani",
 		"movement": 2,
 		"strength": 50,
 		"cost": 400,
