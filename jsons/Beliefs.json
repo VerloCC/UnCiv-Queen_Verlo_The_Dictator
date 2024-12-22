@@ -5,14 +5,14 @@
 		"uniques": ["[+2 Happiness] [in cities following this religion] <in cities with at least [3] [Population]>"]
 	},
 	{
-        "name": "Orgy Rituals",
+        "name": "Worship Verlo",
         "type": "Follower",
-        "uniques": ["[+4 Faith] from every [Pleasure Palace]"]
+        "uniques": ["[-20 Science, +20 Happiness] [in foreign cities]"]
     },
 	{
-        "name": "Pussy Worship",
+        "name": "Rape Verlo",
         "type": "Founder",
-        "uniques": ["[+5 Culture] from every [2] global followers [in foreign cities]"]
+        "uniques": ["[+6 Faith, +9 Happiness] from every [1] global followers [in foreign cities]", "[+1]% [Science] from every follower, up to [+69]%", "[+1]% [Production] from every follower, up to [+69]%"]
     },
 	{
         "name": "Nympho Princesses",
