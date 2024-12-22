@@ -1,84 +1,87 @@
 [
 	{
-		"name": "Pleasure Palace",
-		"isNationalWonder": true,
-		"production": 1,
-		"happiness": 3,
-		"faith": 2,
-		"culture": 2,
-		"gold": 2,
-		"cost": 1,
-		"replaces": "Palace",
-		"uniqueTo": "Nymphomanic Empire",
-		"uniques": ["Indicates the capital city"]
-	},
-	{
-		"name": "Adult Film Studio",
-		"production": 2,
-		"happiness": 1,
-		"faith": 1,
-		"culture": 2,
-		"gold": 3,
-		"cost": 250,
+		"name": "Propaganda Broadcast",
+		"happiness": 50,
+		"cost": 1000,
 		"requiredTech": "Radio"
+		"maintenance": 50,
+		"uniqueTo": "Shisha no Tani"
 	},
 	{
-		"name": "Red Light District",
+		"name": "Kriegsmacht Institute",
 		"production": 1,
 		"happiness": 2,
 		"faith": 2,
 		"culture": 1,
 		"gold": 4,
+		"cost": 1000,
+		"requiredTech": "Gunpowder"
+		"maintenance": 100,
+		"uniqueTo": "Shisha no Tani",
+		"uniques": ["New [All] units start with [20] Experience [in this city]"]
+	},
+	{
+		"name": "Resource Optimizer Algorithm",
+		"cost": 250,
+		"requiredTech": "Mathematics"
+		"maintenance": 25,
+		"uniqueTo": "Shisha no Tani",
+		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City"]
+	},
+	{
+		"name": "Advanced Alloy Optimization System",
 		"cost": 400,
+		"requiredTech": "Metal Casting"
+		"maintenance": 40,
+		"uniqueTo": "Shisha no Tani",
+		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City"]
+	},
+	{
+		"name": "Advanced Alloy Optimization System",
+		"cost": 700,
+		"requiredTech": "Machinery"
+		"maintenance": 70,
+		"uniqueTo": "Shisha no Tani",
+		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City"]
+	},
+	{
+		"name": "Metallurgical Efficiency Module",
+		"cost": 1000,
+		"requiredTech": "Metallurgy"
+		"maintenance": 100,
+		"uniqueTo": "Shisha no Tani",
+		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City"]
+	},
+	{
+		"name": "Composite Element Enhancer",
+		"cost": 1200,
+		"requiredTech": "Astronomy"
+		"maintenance": 120,
+		"uniqueTo": "Shisha no Tani",
+		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City"]
+	},
+	{
+		"name": "Enrichment center",
+		"cost": 1600,
+		"requiredTech": "Chemistry"
+		"maintenance": 160,
+		"uniqueTo": "Shisha no Tani",
+		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City"]
+	},
+	{
+		"name": "Elemental Efficiency Module",
+		"cost": 1900,
 		"requiredTech": "Industrialization"
+		"maintenance": 190,
+		"uniqueTo": "Shisha no Tani",
+		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City"]
 	},
 	{
-		"name": "Nudist Colony",
-		"happiness": 3,
-		"faith": 1,
-		"culture": 1,
-		"gold": 1,
-		"cost": 200,
-		"requiredTech": "Theology"
-	},
-	{
-		"name": "Fantasy Lounge",
-		"production": 1,
-		"happiness": 3,
-		"faith": 1,
-		"culture": 2,
-		"gold": 3,
-		"cost": 250,
-		"requiredTech": "Acoustics"
-	},
-	{
-		"name": "Sensual Spa",
-		"production": 1,
-		"happiness": 3,
-		"faith": 1,
-		"culture": 1,
-		"gold": 2,
-		"cost": 225,
-		"requiredTech": "Construction"
-	},
-	{
-		"name": "Luxury Brothel",
-		"production": 1,
-		"happiness": 2,
-		"faith": 2,
-		"culture": 1,
-		"gold": 4,
-		"cost": 250,
-		"requiredTech": "Masonry"
-	},
-	{
-		"name": "Erotic Art Gallery",
-		"production": 1,
-		"happiness": 2,
-		"faith": 1,
-		"culture": 3,
-		"gold": 2,
-		"cost": 350,
-		"requiredTech": "Drama and Poetry"
-	},
+		"name": "Elemental Synthesis Unit",
+		"cost": 2000,
+		"requiredTech": "Robotics"
+		"maintenance": 200,
+		"uniqueTo": "Shisha no Tani",
+		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City"]
+	}
 ]
