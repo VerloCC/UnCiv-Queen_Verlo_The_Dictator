@@ -38,7 +38,7 @@
 		"movement": 1,
 		"strength": 3000,
 		"rangedStrength": 3000,
-		"range": 10,
+		"range": 20,
 		"cost": 3000,
 		"requiredTech": "Nuclear Fusion",
 		"uniques": ["Nuclear weapon of Strength [3]", "Only available <if [Manhattan Project] is constructed>",
