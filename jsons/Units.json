@@ -18,7 +18,7 @@
 		"rangedStrength": 100,
 		"cost": 2000,
 		"requiredTech": "Ballistics",
-		"uniques": ["[2] Range", "[This Unit] gains [1] movement <upon damaging a [All] unit>","[99] additional attacks per turn"]
+		"uniques": ["[This Unit] gains [1] movement <upon damaging a [All] unit>","[99] additional attacks per turn"]
 	},
 	{
 		"name": "Steel Valkyrie",
