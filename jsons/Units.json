@@ -13,9 +13,9 @@
 		"name": "Sentry Nest",
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Shisha no Tani",
-		"movement": 100,
+		"movement": 99,
 		"strength": 20,
-		"rangedStrength": 50,
+		"rangedStrength": 100,
 		"cost": 1000,
 		"requiredTech": "Ballistics",
 		"uniques": ["[5] Sight", "[4] Range", "[This Unit] gains [1] movement <upon damaging a [All] unit>"]
