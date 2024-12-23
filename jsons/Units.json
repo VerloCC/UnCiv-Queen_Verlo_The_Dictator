@@ -15,10 +15,10 @@
 		"uniqueTo": "Shisha no Tani",
 		"movement": 99,
 		"strength": 20,
-		"rangedStrength": 100,
+		"rangedStrength": 75,
 		"cost": 1000,
 		"requiredTech": "Ballistics",
-		"uniques": ["[5] Sight", "[4] Range", "[This Unit] gains [1] movement <upon damaging a [All] unit>"]
+		"uniques": ["[5] Sight", "[4] Range", "[This Unit] gains [1] movement <upon damaging a [All] unit>","[3] additional attacks per turn","Blast radius [2]"]
 	},
 	{
 		"name": "Steel Valkyrie",
