@@ -10,6 +10,27 @@
 		"uniques": ["No movement cost to pillage", "Ignores terrain cost", "Can move immediately once bought", "Can see over obstacles", "Invisible to non-adjacent units", "Can pass through impassable tiles"]
 	},
 	{
+		"name": "Sentry Nest",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Shisha no Tani",
+		"movement": 100,
+		"strength": 20,
+		"rangedStrength": 50,
+		"cost": 1000,
+		"requiredTech": "Ballistics",
+		"uniques": ["[5] Sight", "[4] Range", "[This Unit] gains [1] movement <upon damaging a [All] unit>"]
+	},
+	{
+		"name": "Demolition Division",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Shisha no Tani",
+		"movement": 10,
+		"strength": 1,
+		"cost": 400,
+		"requiredTech": "Dynamite",
+		"uniques": ["[6] Range", "[7] Sight", "Can move after attacking", "[10] additional attacks per turn", "Destroys tile improvements when attacking", "Ranged attacks may be performed over obstacles", "Blast radius [5]", "Can only attack [All] tiles"]
+	},
+	{
 		"name": "Steel Valkyrie",
 		"unitType": "Siege",
 		"uniqueTo": "Shisha no Tani",
