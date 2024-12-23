@@ -13,24 +13,24 @@
 		"name": "Sentry Nest",
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Shisha no Tani",
-		"movement": 99,
+		"movement": 1,
 		"strength": 20,
 		"rangedStrength": 100,
-		"cost": 1000,
+		"cost": 2000,
 		"requiredTech": "Ballistics",
-		"uniques": ["[3] Sight", "[2] Range", "[This Unit] gains [1] movement <upon damaging a [All] unit>","[99] additional attacks per turn"]
+		"uniques": ["[2] Range", "[This Unit] gains [1] movement <upon damaging a [All] unit>","[99] additional attacks per turn"]
 	},
 	{
 		"name": "Steel Valkyrie",
 		"unitType": "Siege",
 		"uniqueTo": "Shisha no Tani",
-		"movement": 20,
+		"movement": 1,
 		"strength": 5,
 		"rangedStrength": 200,
-		"range": 10,
-		"cost": 2000,
+		"range": 5,
+		"cost": 3000,
 		"requiredTech": "Replaceable Parts",
-		"uniques": ["[20] additional attacks per turn","[12] Sight", "Consumes [30] [Iron]", "Consumes [25] [Aluminum]", "Consumes [25] [Coal]", "Consumes [3] [Silver]", "Consumes [3] [Copper]", "Cannot be purchased", "Destroys tile improvements when attacking", "Can see over obstacles", "Ranged attacks may be performed over obstacles", "Blast radius [3]"],
+		"uniques": ["[99] additional attacks per turn","[6] Sight", "Consumes [25] [Iron]", "Consumes [25] [Aluminum]", "Consumes [25] [Coal]", "Consumes [2] [Silver]", "Consumes [2] [Copper]", "Cannot be purchased", "Destroys tile improvements when attacking", "Can see over obstacles", "Ranged attacks may be performed over obstacles", "[This Unit] gains [1] movement <upon damaging a [All] unit>", "[+200]% Strength <vs cities>"],
 		"attackSound": "artillery"
 	},
 	{
