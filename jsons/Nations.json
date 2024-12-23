@@ -35,7 +35,7 @@
 			"[+100]% maintenance costs <for [All] units>", "[+40]% Strength", "[+20]% Strength for cities",
 			"[-50]% growth [in puppeted cities]", "[+200]% [Science]", "[+15]% Strength <vs cities>",
 			"[2] additional attacks per turn", "[1] Movement", "May heal outside of friendly territory",
-			"[+200]% construction time for [All Road] improvements", "Cities are razed [20] times as fast", "[+75]% [Production]", "[+200]% [Faith]", "Free Great Person", "[3] Free Technologies"],
+			"[-200]% construction time for [All Road] improvements", "Cities are razed [20] times as fast", "[+75]% [Production]", "[+200]% [Faith]", "Free Great Person", "[3] Free Technologies"],
 		"cities": ["Command Center","Sub-Sector I","Sub-Sector II","Sub-Sector III","Sub-Sector IV","Sub-Sector V","Sub-Sector VI",
 			"Sub-Sector VII","Sub-Sector VIII","Sub-Sector IX","Sub-Sector X","Sub-Sector XI","Sub-Sector XII","Sub-Sector XIII",
 			"Sub-Sector XIV","Sub-Sector XV","Sub-Sector XVI","Sub-Sector XVII","SVIII"]
