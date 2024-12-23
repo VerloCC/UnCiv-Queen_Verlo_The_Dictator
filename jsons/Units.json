@@ -21,16 +21,6 @@
 		"uniques": ["[5] Sight", "[4] Range", "[This Unit] gains [1] movement <upon damaging a [All] unit>"]
 	},
 	{
-		"name": "Demolition Division",
-		"unitType": "Ranged Gunpowder",
-		"uniqueTo": "Shisha no Tani",
-		"movement": 10,
-		"strength": 1,
-		"cost": 400,
-		"requiredTech": "Dynamite",
-		"uniques": ["[6] Range", "[7] Sight", "Can move after attacking", "[10] additional attacks per turn", "Destroys tile improvements when attacking", "Ranged attacks may be performed over obstacles", "Blast radius [5]", "Can only attack [All] tiles"]
-	},
-	{
 		"name": "Steel Valkyrie",
 		"unitType": "Siege",
 		"uniqueTo": "Shisha no Tani",
