@@ -30,7 +30,7 @@
 		"range": 5,
 		"cost": 3000,
 		"requiredTech": "Replaceable Parts",
-		"uniques": ["[99] additional attacks per turn","[6] Sight", "Consumes [25] [Iron]", "Consumes [25] [Aluminum]", "Consumes [25] [Coal]", "Consumes [2] [Silver]", "Consumes [2] [Copper]", "Cannot be purchased", "Destroys tile improvements when attacking", "Can see over obstacles", "Ranged attacks may be performed over obstacles", "[This Unit] gains [1] movement <upon damaging a [All] unit>", "[+200]% Strength <vs cities>"],
+		"uniques": ["[99] additional attacks per turn","[6] Sight", "Consumes [25] [Iron]", "Consumes [25] [Aluminum]", "Consumes [25] [Coal]", "Consumes [2] [Silver]", "Consumes [2] [Copper]", "Cannot be purchased", "Can see over obstacles", "Ranged attacks may be performed over obstacles", "[This Unit] gains [1] movement <upon damaging a [All] unit>", "[+200]% Strength <vs cities>"],
 		"attackSound": "artillery"
 	},
 	{
