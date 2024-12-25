@@ -11,6 +11,7 @@
 		"requiredTech": "Replaceable Parts",
 		"uniques": ["[20] additional attacks per turn","[6] Sight", "Consumes [40] [Iron]", "Consumes [40] [Aluminum]", "Consumes [40] [Coal]", "Consumes [5] [Silver]", "Consumes [5] [Copper]", "Cannot be purchased", "Can see over obstacles", "Ranged attacks may be performed over obstacles", "[This Unit] gains [1] movement <upon damaging a [All] unit>", "[+200]% Strength <vs cities>", "Will not be displayed in Civilopedia"],
 		"attackSound": "artillery"
+	},
 	{
 		"name": "XTC-427",
 		"unitType": "Missile",
@@ -23,5 +24,5 @@
 		"uniques": ["Nuclear weapon of Strength [3]", "Only available <if [Manhattan Project] is constructed>",
 			"Blast radius [4]", "Consumes [20] [Uranium]", "Consumes [50] [Iron]", "Consumes [50] [Aluminum]", "Consumes [50] [Coal]", "[60] Sight", "Will not be displayed in Civilopedia"],
 		"attackSound": "nuke"
-	},
+	}
 ]
