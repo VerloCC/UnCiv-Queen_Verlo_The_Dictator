@@ -5,7 +5,8 @@
 		"cost": 1000,
 		"requiredTech": "Radio"
 		"maintenance": 50,
-		"uniqueTo": "Shisha no Tani"
+		"uniqueTo": "The Empire of Aurelian Ascendancy"
+		"uniques": ["Will not be displayed in Civilopedia"]
 	},
 	{
 		"name": "Kriegsmacht Institute",
@@ -17,15 +18,14 @@
 		"cost": 1000,
 		"requiredTech": "Gunpowder"
 		"maintenance": 100,
-		"uniqueTo": "Shisha no Tani",
-		"uniques": ["New [All] units start with [20] Experience [in this city]"]
+		"uniqueTo": "The Empire of Aurelian Ascendancy",
+		"uniques": ["New [All] units start with [20] Experience [in this city]", "Will not be displayed in Civilopedia"]
 	},
 	{
 		"name": "Resource Optimizer Algorithm",
-		"cost": 250,
+		"cost": 1250,
 		"requiredTech": "Mathematics"
 		"maintenance": 25,
-		"uniqueTo": "Shisha no Tani",
 		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City"]
 	}
 ]
