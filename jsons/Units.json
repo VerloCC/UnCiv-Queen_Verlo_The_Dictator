@@ -1,48 +1,16 @@
 [
 	{
-		"name": "Saboteur",
-		"unitType": "Scout",
-		"uniqueTo": "Shisha no Tani",
-		"movement": 100,
-		"strength": 1,
-		"cost": 400,
-		"requiredTech": "Dynamite",
-		"uniques": ["No movement cost to pillage", "Ignores terrain cost", "Can move immediately once bought", "Can see over obstacles", "Invisible to non-adjacent units", "Can pass through impassable tiles"]
-	},
-	{
-		"name": "Sentry Nest",
-		"unitType": "Ranged Gunpowder",
-		"uniqueTo": "Shisha no Tani",
-		"movement": 1,
-		"strength": 20,
-		"rangedStrength": 100,
-		"cost": 2000,
-		"requiredTech": "Ballistics",
-		"uniques": ["[This Unit] gains [1] movement <upon damaging a [All] unit>","[99] additional attacks per turn"]
-	},
-	{
 		"name": "Steel Valkyrie",
 		"unitType": "Siege",
 		"uniqueTo": "Shisha no Tani",
 		"movement": 1,
 		"strength": 5,
-		"rangedStrength": 200,
+		"rangedStrength": 150,
 		"range": 5,
-		"cost": 3000,
+		"cost": 100000,
 		"requiredTech": "Replaceable Parts",
-		"uniques": ["[99] additional attacks per turn","[6] Sight", "Consumes [25] [Iron]", "Consumes [25] [Aluminum]", "Consumes [25] [Coal]", "Consumes [2] [Silver]", "Consumes [2] [Copper]", "Cannot be purchased", "Can see over obstacles", "Ranged attacks may be performed over obstacles", "[This Unit] gains [1] movement <upon damaging a [All] unit>", "[+200]% Strength <vs cities>"],
+		"uniques": ["[20] additional attacks per turn","[6] Sight", "Consumes [40] [Iron]", "Consumes [40] [Aluminum]", "Consumes [40] [Coal]", "Consumes [5] [Silver]", "Consumes [5] [Copper]", "Cannot be purchased", "Can see over obstacles", "Ranged attacks may be performed over obstacles", "[This Unit] gains [1] movement <upon damaging a [All] unit>", "[+200]% Strength <vs cities>", "Will not be displayed in Civilopedia"],
 		"attackSound": "artillery"
-	},
-	{
-		"name": "Blaze",
-		"unitType": "Ranged Gunpowder",
-		"uniqueTo": "Shisha no Tani",
-		"movement": 2,
-		"strength": 50,
-		"cost": 400,
-		"requiredTech": "Replaceable Parts",
-		"uniques": ["No movement cost to pillage", "[5] additional attacks per turn"]
-	},	
 	{
 		"name": "XTC-427",
 		"unitType": "Missile",
@@ -50,10 +18,10 @@
 		"strength": 3000,
 		"rangedStrength": 3000,
 		"range": 35,
-		"cost": 3000,
+		"cost": 30000,
 		"requiredTech": "Nuclear Fusion",
 		"uniques": ["Nuclear weapon of Strength [3]", "Only available <if [Manhattan Project] is constructed>",
-			"Blast radius [6]", "Consumes [20] [Uranium]", "[40] Sight"],
+			"Blast radius [4]", "Consumes [20] [Uranium]", "[60] Sight", "Will not be displayed in Civilopedia"],
 		"attackSound": "nuke"
 	},
 ]
