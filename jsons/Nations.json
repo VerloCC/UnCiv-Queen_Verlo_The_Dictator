@@ -31,7 +31,7 @@
 		"innerColor": [0,0,0],
 		"uniqueName": "Valentina's Rule",
 		"uniques": ["[-10]% [Happiness]", "[-80]% [Happiness] [in puppeted cities]", "May not annex cities",
-			"Quantity of strategic resources produced by the empire +[+100]%", "[+80]% [Gold] [in all cities]",
+			"Quantity of strategic resources produced by the empire +[+100]%", "[+40]% [Gold] [in all cities]",
 			"[+50]% maintenance costs <for [All] units>", "[+20]% Strength <for [All] units>", "[+20]% Strength for cities",
 			"[-50]% growth [in puppeted cities]", "[+250]% [Science]", "[+15]% Strength <vs cities>",
 			"[1] additional attacks per turn", "May heal outside of friendly territory",
