@@ -32,7 +32,7 @@
 		"uniqueName": "Valentina's Rule",
 		"uniques": ["[-10]% [Happiness]", "[-80]% [Happiness] [in puppeted cities]", "May not annex cities", "[-60]% growth [in puppeted cities]",
 			"Quantity of strategic resources produced by the empire [+100]%", "[+40]% [Gold] [in all cities]", "Science gained from research agreements [+25]%",
-			"[+50]% maintenance costs <for [All] units>", "[+20]% Strength for cities",
+			"[+50]% maintenance costs <for [All] units>", "[+20]% Strength for cities", "When declaring friendship, both parties gain a [75]% boost to great person generation",
 			"[+250]% [Science]", "[1] additional attacks per turn", 
 			"Cities are razed [20] times as fast", "[+20]% Strength for cities", "Will not be displayed in Civilopedia"],
 		"cities": ["XTC-Secotr 01","Sub-Sector I","Sub-Sector II","Sub-Sector III","Sub-Sector IV","Sub-Sector V","Sub-Sector VI",
